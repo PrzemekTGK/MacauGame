@@ -454,7 +454,6 @@ public class Utility {
                                 }
                             }
 
-
                             GameWindow.hBoxTakeDefendButtons.setVisible(false);
                             checkIsPlayerTake(numSameAttackCards, numSameKingCards);
                         });
